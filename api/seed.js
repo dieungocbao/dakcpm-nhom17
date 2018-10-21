@@ -321,7 +321,8 @@ var insert_users = [
 
     ['Super', 'Admin', 'admin@fit.hcmus.edu.vn', '01228718705', bcrypt.hashSync('admin', 10), 4], //170
 
-    //['Huỳnh Hữu', 'Nghĩa', '1412572@student.hcmus.edu.vn', '01228718705', bcrypt.hashSync('1353019', 10), 1], //171
+    ['Diệu Ngọc', 'Bảo', '1512023@student.hcmus.edu.vn', '01228718705', bcrypt.hashSync('1353019', 10), 1], //171
+    ['Diệu Ngọc', 'Bảo', 'dieungocbao@gmail.com', '01228718705', bcrypt.hashSync('1353019', 10), 1], //172
 ];
 //[teacher_id,course_id,teacher_role],
 var insert_teacher_teach_course = [
